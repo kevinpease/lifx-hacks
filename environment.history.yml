@@ -1,0 +1,7 @@
+name: /envs/well-just-in-case-i-need-to-copy/lifx-hacks-from-github
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - conda-pack
+prefix: /envs/well-just-in-case-i-need-to-copy/lifx-hacks-from-github
