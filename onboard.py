@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/envs/well-just-in-case-i-need-to-copy/lifx-hacks-from-github/bin/python3
 #
 # Author: Tim Serong <tim@wirejunkie.com>
 #
